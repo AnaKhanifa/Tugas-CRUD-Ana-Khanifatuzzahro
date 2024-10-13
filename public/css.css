@@ -1,0 +1,35 @@
+.container {
+    margin-top: 5rem;
+    padding: 5rem;
+    margin-left: 5rem;
+}
+
+.judul {
+    margin-top: 3rem;
+    margin-left: 3rem;
+}
+
+.card {
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+
+.card-header button {
+    float: right;
+}
+
+.card-header h4 {
+    float: left;
+}
+
+nav {
+    background-color: #fc5050;
+}
+
+nav p {
+    padding: 20px;
+    text-align: right;
+    margin-right: 5rem;
+    color: white;
+    font-weight: bold;
+}
